@@ -1,7 +1,0 @@
-User input (from file or text)
-
-AI logic for extracting amount, date, category
-
-Store it in a local database (SQLite)
-
-See a monthly summary using charts
